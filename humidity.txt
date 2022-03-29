@@ -1,0 +1,17 @@
+//Requiring the package
+import sensor from 'node-dht-sensor'
+//var sensor = require("node-dht-sensor");
+
+//Calling function with takes 2 parameters DHT type (11/22), GPIO number
+//This functions calls a function which gives 3 values err, Temperature and Humidity
+//If there is no error, the data will be logged on terminal using console.log
+sensor.read(11, 4, function(err, temperature, humidity) {
+  if (!err) {
+    console.log(`temp: ${temperature}°C, humidity: ${humidity}%`);
+  }
+});
+
+
+
+resource: https://github.com/Taher1322/Raspberry_Pi_YT_Tutorial/commit/49e710ea1ff0f702f1f8184cf7e3f4122d10263f
+https://www.youtube.com/watch?v=KAtyo46g4mw
