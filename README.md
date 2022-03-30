@@ -24,7 +24,7 @@ For accomplishing this, we needed the following components were used for each pl
 - Visual Studio Code software, version 1.65.2
 - Libraries: 
 1.  socket.io: for server socket 
-2. socket.io-client: for client socket: 
+2. socket.io-client: for client socket 
 3. node-dht-sensor: for humidity sensor
 4. pigpio: for servo motor and ultrasonic sensor
 5. onoff: for servo motor and ultrasonic sensor
