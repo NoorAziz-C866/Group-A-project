@@ -1,5 +1,4 @@
-# Group-A-project
-# Grow Together
+# Group-A-project: Grow Together
   >How to make asynchronous interaction between elderly and children
 
 ## Project idea
