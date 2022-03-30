@@ -23,11 +23,11 @@ For accomplishing this, we needed the following components were used for each pl
 - JavaScript and [Node.js](https://nodejs.org/en/).
 - Visual Studio Code software, version 1.65.2
 - Libraries: 
-1. For server socket: socket.io
-2. For client socket: socket.io-client
-3. For humidity sensor: node-dht-sensor
-4. For servo motor: pigpio
-5. For ultrasonic sensor: onoff
+1.  socket.io: for server socket 
+2. socket.io-client: for client socket: 
+3. node-dht-sensor: for humidity sensor
+4. pigpio: for servo motor and ultrasonic sensor
+5. onoff: for servo motor and ultrasonic sensor
 
 
 
