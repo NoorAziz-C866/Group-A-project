@@ -29,8 +29,6 @@ For accomplishing this, we needed the following components were used for each pl
 4. For servo motor: pigpio
 5. For ultrasonic sensor: onoff
 
-## Program files:
-To run the program, the previously mentioned libraries should be installed first. Then run server.mjs on the server Raspberry Pi and client.mjs on the client raspberry Pi.
 
 
 
